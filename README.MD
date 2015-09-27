@@ -18,10 +18,14 @@ To use the application:
 
 
   1) Type the url into your favorite browser (application defaults to “linear” and “1 prediction period”
+
   2) Select the prediction methodology
+
   3) Select desired prediction period
+
   4) Observe the output
 
 
 Application URL: https://eeffbb.shinyapps.io/projection
+
 Documentation URL: https://eeffbb.shinyapps.io/README
